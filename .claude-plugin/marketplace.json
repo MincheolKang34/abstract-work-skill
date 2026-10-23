@@ -2,7 +2,7 @@
   "name": "abstract-marketplace",
   "description": "폴더/파일을 요약·정리해 주는 /abstract-work 스킬 모음",
   "owner": {
-    "name": "Woori"
+    "name": "MincheolKang"
   },
   "plugins": [
     {
