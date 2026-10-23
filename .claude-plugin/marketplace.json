@@ -1,0 +1,14 @@
+{
+  "name": "abstract-marketplace",
+  "description": "폴더/파일을 요약·정리해 주는 /abstract-work 스킬 모음",
+  "owner": {
+    "name": "Woori"
+  },
+  "plugins": [
+    {
+      "name": "abstract-work",
+      "description": "지정한 폴더 또는 파일의 작업 내용을 요약·정리하고, 프로젝트라면 추가 작업을 추천(실행은 하지 않음)",
+      "source": "./plugins/abstract-work-work"
+    }
+  ]
+}
